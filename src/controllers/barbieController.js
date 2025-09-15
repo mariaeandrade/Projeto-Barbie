@@ -1,4 +1,3 @@
-import { setSourceMapsSupport } from "module";
 import dados from "../models/dados.js";
 
 
